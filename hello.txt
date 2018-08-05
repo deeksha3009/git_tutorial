@@ -1,5 +1,11 @@
 this is a random line1
 this is a random line2
+<<<<<<< HEAD
+today is sunday
+tomorrow is monday
+mm,hxmdehk
+=======
 
 my name is deeksha
 my name is aishwarya
+>>>>>>> parent of 620de83... third commit
